@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Eduardo</h1>
 <h3 align="center">Soy estudiante de Ingeniería de Sistemas</h3>
 
-- 💬 Ask me about **SQL, Java, html, C++, Python**
+- 💬 Sé sobre **SQL, Java, html, C++, Python**
 
-- 📫 How to reach me **edujovelardeg@gmail.com**
+- 📫 Puedes contactarme en **edujovelardeg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

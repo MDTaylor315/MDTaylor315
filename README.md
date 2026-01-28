@@ -1,33 +1,47 @@
-# Hi there, I'm Eduardo Velarde! 👋
-
-**Flutter Mobile Developer | Systems Engineering Graduate**
-Building high-performance mobile experiences with a strong backend foundation.
-
-- 🎓 **Education:** Recently graduated in Systems Engineering from the National University of Trujillo.
-- 📱 **Mobile Expertise:** Specialized in **Flutter & Dart** for Android and iOS.
-- ⚙️ **Backend Savvy:** Proficient in **Nest.js, Next.js, Spring Boot, and FastAPI**.
-- 🤖 **AI Enthusiast:** Developed **AdiPix**, an AI-powered app for body composition analysis and personalized fitness/nutrition routines.
-- 🌍 **Language:** Bilingual in Spanish and **English (C1 Advanced)**.
+# Eduardo Jose Velarde Gonzales 🚀
+**Mobile Developer Specialist | Systems Engineer**
+*Building high-performance mobile experiences with a robust full-stack foundation.*
 
 ---
 
-### 🚀 What I'm working on
-- **Sistematic:** Leading the development of logistics tracking solutions and reward-based platforms.
-- **SystMap:** Building a real-time background GPS tracking system for logistics.
-- **Open Source:** Constantly refining my boilerplate architectures for scalable mobile apps.
+### 📱 Mobile-First Profile
+- 🛠️ **Flutter Specialist:** Expert in developing scalable, high-quality cross-platform applications using **Flutter & Dart**.
+- 🏗️ **Full-Lifecycle Engineering:** Capable of managing the entire application journey, from architectural design and database modeling to cloud deployment.
+- ⚙️ **Multi-Language Core:** While my main focus is mobile, I have a solid base in **Java (Spring Boot), .NET, Python (FastAPI), and Nest.js**.
+- 🤖 **IA & Logic:** Experience integrating Machine Learning and Computer Vision models into production-ready mobile apps.
 
 ---
 
-### 🛠️ Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🛠️ Technical Toolkit
+- **Primary:** Flutter & Dart.
+- **Backend & Web:** Nest.js, Next.js, Java, .NET, Python, PHP.
+- **Databases & Data:** SQL Server, MySQL, PostgreSQL, TSQL.
+- **Foundation:** C++, TypeScript, Git, Cloud Infrastructure (Digital Ocean, Render).
 
 ---
 
-### 📊 My GitHub Stats
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MDTaylor315&show_icons=true&theme=tokyonight)
+### 📊 Engineering Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MDTaylor315&show_icons=true&theme=tokyonight" alt="Eduardo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDTaylor315&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDTaylor315&layout=compact&theme=tokyonight)
+> **Insight:** My development activity is led by **Dart (65%)**, supported by a strong base in **TSQL** and **Java** for backend and data management.
+
+---
+
+### 📂 Key Projects
+- **AdiPix:** AI-driven platform for body composition analysis and automated wellness planning.
+- **SystMap:** Real-time logistics solution focusing on background GPS services and delivery tracking.
+- **BEDIA:** Smart surveillance system integrating live video streaming and facial recognition.
+
+---
+
+### 🎓 Education
+- **B.S. in Systems Engineering**.
+
+---
+
+### 📫 Connect with me
+- 📧 [edujovelardeg@gmail.com](mailto:edujovelardeg@gmail.com)
+- 💬 [WhatsApp Direct](https://wa.me/51961947073)

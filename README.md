@@ -22,7 +22,6 @@
 
 ### 📊 Engineering Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDTaylor315&show_icons=true&theme=tokyonight" alt="Eduardo's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDTaylor315&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 

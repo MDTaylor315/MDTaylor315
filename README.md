@@ -1,4 +1,4 @@
-# Eduardo Jose Velarde Gonzales 🚀
+# Eduardo Jose Velarde Gonzales
 **Mobile Developer Specialist | Systems Engineer**
 *Building high-performance mobile experiences with a robust full-stack foundation.*
 
@@ -43,4 +43,3 @@
 
 ### 📫 Connect with me
 - 📧 [edujovelardeg@gmail.com](mailto:edujovelardeg@gmail.com)
-- 💬 [WhatsApp Direct](https://wa.me/51961947073)

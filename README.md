@@ -20,13 +20,6 @@
 
 ---
 
-### Engineering Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDTaylor315&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### Key Projects
 - **AdiPix:** AI-driven mobile app for body composition analysis using computer vision and automated wellness plans.
 - **Transportes Montano Ecosystem:** Offline-first logistics apps for document scanning, route control, and Odoo ERP synchronization.

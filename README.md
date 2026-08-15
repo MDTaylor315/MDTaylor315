@@ -1,45 +1,45 @@
 # Eduardo Jose Velarde Gonzales
-**Mobile Developer Specialist | Systems Engineer**
-*Building high-performance mobile experiences with a robust full-stack foundation.*
+**Mobile Software Engineer | Systems Engineer**  
+*Building scalable, offline-first mobile applications with a solid architectural foundation.*
 
 ---
 
-### 📱 Mobile-First Profile
-- 🛠️ **Flutter Specialist:** Expert in developing scalable, high-quality cross-platform applications using **Flutter & Dart**.
-- 🏗️ **Full-Lifecycle Engineering:** Capable of managing the entire application journey, from architectural design and database modeling to cloud deployment.
-- ⚙️ **Multi-Language Core:** While my main focus is mobile, I have a solid base in **Java (Spring Boot), .NET, Python (FastAPI), and Nest.js**.
-- 🤖 **IA & Logic:** Experience integrating Machine Learning and Computer Vision models into production-ready mobile apps.
+### Overview
+- **Flutter & Mobile Specialist:** Focused on building high-performance cross-platform apps using **Flutter & Dart** with Clean Architecture (Riverpod / Bloc).
+- **Core Architecture:** Experience handling background services (Workmanager), offline-first persistence (SQLite), and API/ERP integrations.
+- **Full-Lifecycle Engineering:** Capable of owning features end-to-end, from API contract design and state management to deployment.
+- **Machine Learning Integration:** Experience deploying Computer Vision and AI models directly into mobile clients.
 
 ---
 
-### 🛠️ Technical Toolkit
-- **Primary:** Flutter & Dart.
-- **Backend & Web:** Nest.js, Next.js, Java, .NET, Python, PHP.
-- **Databases & Data:** SQL Server, MySQL, PostgreSQL, TSQL.
-- **Foundation:** C++, TypeScript, Git, Cloud Infrastructure (Digital Ocean, Render).
+### Technical Toolkit
+- **Mobile:** Flutter, Dart, Riverpod, Bloc, Provider, SQLite, Workmanager, Clean Architecture, Offline-First.
+- **Backend & APIs:** Python (FastAPI), Node.js (Nest.js), Java (Spring Boot), .NET, RESTful APIs, Odoo Integration.
+- **Databases & Cloud:** PostgreSQL, SQL Server, MySQL, Git, CI/CD, DigitalOcean, Render.
+- **Tools & UI:** Figma to Code, Hardware/Kiosk Peripherals integration, Postman.
 
 ---
 
-### 📊 Engineering Metrics
+### Engineering Metrics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDTaylor315&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-> **Insight:** My development activity is led by **Dart (65%)**, supported by a strong base in **TSQL** and **Java** for backend and data management.
+---
+
+### Key Projects
+- **AdiPix:** AI-driven mobile app for body composition analysis using computer vision and automated wellness plans.
+- **Transportes Montano Ecosystem:** Offline-first logistics apps for document scanning, route control, and Odoo ERP synchronization.
+- **TechBot Kiosks:** Multi-tenant, white-label digital kiosk engine with adaptive layouts and payment peripheral integrations.
+- **SystMap:** Real-time logistics solution with background GPS tracking and persistent local caching.
 
 ---
 
-### 📂 Key Projects
-- **AdiPix:** AI-driven platform for body composition analysis and automated wellness planning.
-- **SystMap:** Real-time logistics solution focusing on background GPS services and delivery tracking.
-- **BEDIA:** Smart surveillance system integrating live video streaming and facial recognition.
+### Education
+- **B.S. in Systems Engineering** — Universidad Nacional de Trujillo
 
 ---
 
-### 🎓 Education
-- **B.S. in Systems Engineering**.
-
----
-
-### 📫 Connect with me
-- 📧 [edujovelardeg@gmail.com](mailto:edujovelardeg@gmail.com)
+### Contact
+- ✉️ [edujovelardeg@gmail.com](mailto:edujovelardeg@gmail.com)
+- LinkedIn: [Eduardo Velarde](https://www.linkedin.com/)
